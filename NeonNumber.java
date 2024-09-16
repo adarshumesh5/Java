@@ -13,7 +13,7 @@ public class NeonNumber {
             square = square/10;
         }
        
-        if(num == sum){
+        if(sum == num){
             System.out.println("It is a neon number");
         }
         else{
